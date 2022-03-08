@@ -1,0 +1,19 @@
+.card {
+  padding: 0.5em 0.5em;
+  border: 1 dashed #000000;
+}
+h2 {
+  margin-top: 0.5em;
+}
+.text {
+  font-size: 1.5rem;
+  &.red {
+    color: red;
+  }
+  &.blue {
+    color: blue;
+  }
+  &.green {
+    color: green;
+  }
+}
